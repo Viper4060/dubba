@@ -1,0 +1,59 @@
+.xbox.white {
+    background: url(base-white.png);
+}
+
+.xbox.disconnected {
+    background: url(http://gamepadviewer.com/xbox-assets/disconnected.svgz);
+}
+
+.xbox .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(trigger.png);
+    opacity: 0;
+}
+
+.xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(bumper.png);
+    opacity: 0;
+}
+
+.xbox .quadrant {
+    position: absolute;
+    background: url(quadrant.png);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
+.xbox .back, .xbox .start {
+    background: url(start-select.png);
+    width: 33px !important;
+    height: 33px !important;
+    opacity: 0;
+}
+
+.xbox .stick {
+    position: absolute;
+    background: url(sticks.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+.xbox .button {
+    position: absolute;
+    background: url(abxy.png);
+    width: 48px;
+    height: 48px;
+}
+
+.xbox .face {
+    background: url(dpad.png);
+    position: absolute;
+    opacity: 0;
+}
