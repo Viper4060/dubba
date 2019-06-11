@@ -587,7 +587,7 @@
   border-radius: 4px;
   cursor: pointer; }
   .sharedappdetailsheader_PinBox_3J61g.sharedappdetailsheader_BottomLeft_7LeXY {
-    border-left: 4px solid #49ee51;
+    border-left: 4px solid #17af1e;
     border-bottom: 4px solid #49ee51;
     left: 0;
     bottom: 0; }
@@ -763,7 +763,7 @@
   padding: 8px;
   background: #000a;
   border: 1px solid rgba(59, 127, 238, 0.541);
-  color: #3b7fee;
+  color: #0061ff;
   z-index: 51;
   user-select: none;
   font-size: 12px;
@@ -940,12 +940,12 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   background-size: 330% 100%;
   transition: all 0.2s ease-out; }
   .appactionbutton_PlayButton_8b2Hc.appactionbutton_Green_1yyqR {
-    background: linear-gradient(to right, #70d61d 0%, #01a75b 60%);
+    background: linear-gradient(to right, #d61d1d 0%, #a70101 60%);
     background-position: 25%;
     background-size: 330% 100%;
     transition: all 0.2s ease-out; }
     .appactionbutton_PlayButton_8b2Hc.appactionbutton_Green_1yyqR:hover {
-      background: linear-gradient(to right, #70d61d 0%, #01a75b 60%);
+      background: linear-gradient(to right, #d61d1d 0%, #a70101 60%);
       background-position: 0%;
       background-size: 330% 100%;
       color: white; }
@@ -1092,7 +1092,7 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
 .appdetailsplaysection_Container_DrJky {
   width: 100%;
   box-sizing: border-box;
-  background: linear-gradient(to top, #24282f 18px, rgba(0, 0, 0, 0) 100%), rgba(29, 34, 39, 0.75);
+  background: linear-gradient(to top, #000000 18px, rgba(0, 0, 0, 0) 95%), rgba(0, 0, 0, 0.75);
   transition: all 0.3s;
   border-bottom: 0px solid #6a6a6a00;
   position: sticky;
@@ -1100,8 +1100,8 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   z-index: 10; }
 
 .appdetailsplaysection_StickyHeader_1vCbY {
-  background: linear-gradient(to top, #24282f 18px, rgba(0, 0, 0, 0) 100%), #1d2227;
-  border-bottom: 1px solid #707379; }
+  background: linear-gradient(to top, #000000 18px, rgba(0, 0, 0, 0) 100%), #000000;
+  border-bottom: 1px solid #ff0000; }
 
 .appdetailsplaysection_Row_lrOE- {
   box-sizing: border-box;
@@ -1162,13 +1162,13 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   user-select: none;
   cursor: pointer;
   font-size: 13px;
-  color: #929799; }
+  color: #ffffff; }
   .appdetailsplaysection_GameInfoButton_2rieA .appdetailsplaysection_Arrow_4BLbT {
     margin-left: 10px;
     margin-top: 5px;
     width: 20px; }
     .appdetailsplaysection_GameInfoButton_2rieA .appdetailsplaysection_Arrow_4BLbT polygon {
-      fill: #2d73ff; }
+      fill: #ff2d2d; }
 
 .appdetailsplaysection_MenuButton_icQLb {
   box-sizing: border-box;
@@ -1181,7 +1181,7 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   border: none;
   cursor: pointer; }
   .appdetailsplaysection_MenuButton_icQLb svg {
-    fill: #929799; }
+    fill: #ff0000; }
 
 .appdetailsplaysection_DetailsSection_ijn9G {
   box-sizing: border-box;
@@ -1205,15 +1205,15 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   height: 6px;
   width: 80px;
   border-radius: 5px;
-  background-color: #151619;
+  background-color: #3e3e3e;
   margin-top: 6px; }
   .appdetailsplaysection_DetailsProgressContainer_22Y1b .appdetailsplaysection_DetailsProgressBar_3OnCg {
-    background-color: #2d73ff;
+    background-color: #ff0000;
     border-radius: 5px;
     height: 100%; }
   .appdetailsplaysection_DetailsProgressContainer_22Y1b .appdetailsplaysection_PortraitBar_1M-Kd {
-    background-color: #64c5f2;
-    box-shadow: 0 0 10px #64c5f2;
+    background-color: #f26464;
+    box-shadow: 0 0 10px #f26464;
     border-radius: 5px;
     height: 100%; }
 
@@ -1253,12 +1253,12 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   .appdetailsplaysection_MiniAchievements_3vBEf .appdetailsplaysection_AchievementLabel_2Jjoe {
     font-size: 15px;
     text-transform: uppercase;
-    color: #9c9c9c;
+    color: #ffffff;
     letter-spacing: 1px; }
   .appdetailsplaysection_MiniAchievements_3vBEf .appdetailsplaysection_AchievementCountLabel_Vx7sV {
     font-size: 15px;
     margin-right: 10px;
-    color: #56595b; }
+    color: #ffffff; }
 
 .appdetailsplaysection_Playtime_3Jdvl {
   display: flex;
@@ -1281,12 +1281,12 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   .appdetailsplaysection_Playtime_3Jdvl .appdetailsplaysection_PlaytimeLabel_2Xwbx {
     font-size: 15px;
     text-transform: uppercase;
-    color: #9c9c9c;
+    color: #ffffff;
     letter-spacing: 1px; }
   .appdetailsplaysection_Playtime_3Jdvl .appdetailsplaysection_PlaytimeInfo_hB2iQ {
     font-size: 15px;
     margin-right: 10px;
-    color: #56595b; }
+    color: #ffffff; }
 
 .appdetailsplaysection_LastPlayed_2Aoqu {
   display: flex;
@@ -1301,12 +1301,12 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   .appdetailsplaysection_LastPlayed_2Aoqu .appdetailsplaysection_LastPlayedLabel_9MLoS {
     font-size: 15px;
     text-transform: uppercase;
-    color: #9c9c9c;
+    color: #ffffff;
     letter-spacing: 1px; }
   .appdetailsplaysection_LastPlayed_2Aoqu .appdetailsplaysection_LastPlayedInfo_rY9Tl {
     font-size: 15px;
     margin-right: 10px;
-    color: #2d73ff; }
+    color: #ff0000; }
 
 .appdetailsplaysection_RecentlyUpdated_29v7q {
   box-sizing: border-box;
@@ -1317,17 +1317,17 @@ html.contextmenu_ContextMenuPopup_3cauD .contextmenu_contextMenuItem_1g9mc {
   border-radius: 4px;
   padding: 4px 10px;
   font-size: 15px;
-  color: #9c9c9c; }
+  color: #ffffff; }
   .appdetailsplaysection_RecentlyUpdated_29v7q .appdetailsplaysection_RecentlyUpdatedIcon_1kfVm {
     width: 10px;
     height: 10px;
-    box-shadow: 0 0 19px #66b9ff;
-    background-color: #66b9ff;
+    box-shadow: 0 0 19px #ff0000;
+    background-color: #ff0000;
     border-radius: 10px;
     margin: 6px 3px 3px 3px;
     margin-right: 10px; }
   .appdetailsplaysection_RecentlyUpdated_29v7q .appdetailsplaysection_RecentlyUpdatedText_fq5wK {
-    color: #66b9ff; }
+    color: #ff0000; }
   .appdetailsplaysection_RecentlyUpdated_29v7q .appdetailsplaysection_RecentlyUpdatedLink_1XNND {
     margin-left: auto; }
 
@@ -3512,10 +3512,10 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
     height: 92px; }
 
 .ingame .steamavatar_avatarStatus_1H5qQ {
-  background: linear-gradient(to bottom, #8cd61d 0%, #a1f410 30%, #a1f410 70%, #8cd61d 100%); }
+  background: linear-gradient(to bottom, #FF0000 0%, #FF0000 30%, #FF0000 70%, #FF0000 100%); }
 
 .ingame .X-Large .steamavatar_avatarStatus_1H5qQ {
-  background: #bff02b; }
+  background: #FF0000; }
 
 .golden .steamavatar_avatarStatus_1H5qQ {
   background: linear-gradient(to bottom, #d5bf6a 0%, #ffe2a9 40%, #ba995c 52%, #ba995c 61%, #d5bf6a 85%); }
@@ -3524,7 +3524,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
   background: linear-gradient(to bottom, #9c8fd4 0%, #9c8fd4 30%, #9c8fd4 70%, #9c8fd4 100%); }
 
 .online .steamavatar_avatarStatus_1H5qQ {
-  background: linear-gradient(to bottom, #6dcff6 0%, #6dcff6 30%, #6dcff6 70%, #6dcff6 100%); }
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 30%, #ffffff 70%, #ffffff 100%); }
 
 .awayOrSnooze .steamavatar_avatarStatus_1H5qQ {
   -webkit-mask: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAQAAABKxSfDAAAACXBIWXMAAAsSAAALEgHS3X78AAAAIUlEQVQI12P8/5+BgYGBgZGBgYGBiQEJoHAY/+OSQeEAAMCCAwlfJ3DmAAAAAElFTkSuQmCC") repeat-y;
@@ -3577,12 +3577,12 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
 .personastatusicons_PersonaStatusIcon_1_bCH.ingame .SVGIcon_VR path,
 .personastatusicons_PersonaStatusIcon_1_bCH.ingame .SVGIcon_MobilePhone path,
 .personastatusicons_PersonaStatusIcon_1_bCH.ingame .SVGIcon_BigPicture path {
-  fill: #80aa4d; }
+  fill: #ff0000; }
 
 .personastatusicons_PersonaStatusIcon_1_bCH.online .SVGIcon_VR path,
 .personastatusicons_PersonaStatusIcon_1_bCH.online .SVGIcon_MobilePhone path,
 .personastatusicons_PersonaStatusIcon_1_bCH.online .SVGIcon_BigPicture path {
-  fill: #4c91ac; }
+  fill: #ffffff; }
 
 .miniprofile_miniProfile_1wOhb {
   width: fit-content;
@@ -3628,8 +3628,8 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
   left: -60px;
   top: -60px;
   opacity: 0.4;
-  -webkit-mask: radial-gradient(ellipse farthest-corner at 150px 150px, black 0%, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3) 34%, rgba(0, 0, 0, 0) 64%);
-  mask: radial-gradient(ellipse farthest-corner at 150px 150px, black 0%, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3) 34%, rgba(0, 0, 0, 0) 64%);
+  -webkit-mask: radial-gradient(ellipse farthest-corner at 150px 150px, black 0%, rgba(255, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3) 34%, rgba(0, 0, 0, 0) 64%);
+  mask: radial-gradient(ellipse farthest-corner at 150px 150px, red 0%, rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.3) 34%, rgba(0, 0, 0, 0) 64%);
   mix-blend-mode: screen; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfileBlocked_1vgJ8,
@@ -3695,7 +3695,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.in-game .miniprofile_personaName_3uY4v:not(.miniprofile_hasNickname_1UZnx) .miniprofile_personaNameLabel_1e3YD,
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.in-game .miniprofile_personaName_3uY4v.miniprofile_nickName_1dLR4 .miniprofile_personaNameLabel_1e3YD {
-  color: #e3ffc2; }
+  color: #ff0000; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.golden .miniprofile_personaName_3uY4v:not(.miniprofile_hasNickname_1UZnx) .miniprofile_personaNameLabel_1e3YD,
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.golden .miniprofile_personaName_3uY4v.miniprofile_nickName_1dLR4 .miniprofile_personaNameLabel_1e3YD {
@@ -3743,7 +3743,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.online .miniprofile_nickname_1tljY,
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.online .miniprofile_persona_2SAbO {
-  color: #6dcff6; }
+  color: #ffffff; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.offline .miniprofile_nickname_1tljY,
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.offline .miniprofile_persona_2SAbO {
@@ -3781,12 +3781,12 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
   position: absolute; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfileGameContainer_S2Xyw .miniprofile_ingame_MFwUE {
-  color: #90ba3c; }
+  color: #FF0000;; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfileGameContainer_S2Xyw .miniprofile_ingame_MFwUE .miniprofile_richPresence_2NuVR,
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfileGameContainer_S2Xyw .miniprofile_ingame_MFwUE .miniprofile_gameState_3UEaC {
   font-size: 12px;
-  color: #62813b; }
+  color: #FF0000; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfileGameContainer_S2Xyw .miniprofile_golden_EDKez .miniprofile_gameState_3UEaC {
   color: #e4ca63; }
@@ -3879,7 +3879,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
   color: #8277b1; }
 
 .miniprofile_miniProfileContent_2WFRz .miniprofile_miniProfilePlayer_1Blac.online .miniprofile_playerContent_2l7QT .miniprofile_awayStatusLabel_2amZI {
-  color: #4c91ac; }
+  color: #ffffff; }
 
 /* These are all also in community's shared_global.css but we don't necessarily have that file available where we're using
 	this component. */
@@ -4199,7 +4199,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
 
 /* Styles that change based on persona state */
 .ingame .personanameandstatus_playerName_2Y15K {
-  color: #e3ffc2; }
+  color: #FF0000; }
 
 .ingame .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD,
 .ingame .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a,
@@ -4207,7 +4207,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
 .ingame .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a:active,
 .ingame .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a:visited,
 .ingame.personanameandstatus_twoLine_17zmv .personanameandstatus_richPresenceLabel_3nGLD {
-  color: #91c257; }
+  color: #FF0000; }
 
 .ingame .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD {
   font-size: 12px; }
@@ -4236,7 +4236,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
 .ingame .personanameandstatus_richPresenceLabel_3nGLD a:hover,
 .ingame .personanameandstatus_richPresenceLabel_3nGLD a:active,
 .ingame .personanameandstatus_richPresenceLabel_3nGLD a:visited {
-  color: #62813b; }
+  color: #FF0000; }
 
 .ingame .SVGIcon_DoNotDisturb circle,
 .ingame .SVGIcon_DoNotDisturb line {
@@ -4263,15 +4263,15 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
   color: #8277b1; }
 
 .online .personanameandstatus_playerName_2Y15K {
-  color: #ccccd5;
-  color: #6dcff6; }
+  color: #ffffff;
+  color: #ffffff; }
 
 .online .personanameandstatus_richPresenceLabel_3nGLD,
 .online .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a,
 .online .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a:hover,
 .online .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a:active,
 .online .personanameandstatus_gameName_1QX2l.personanameandstatus_richPresenceLabel_3nGLD a:visited {
-  color: #4c91ac; }
+  color: #ffffff; }
 
 .online .SVGIcon_DoNotDisturb circle,
 .online .SVGIcon_DoNotDisturb line {
@@ -4715,7 +4715,7 @@ button.DialogButton.appdetailsbutton_AppDetailsButton_3F0u- {
       font-size: 15px; }
     .appdetailsachievementssection_Featured_1DbQ0 .appdetailsachievementssection_TextSection_1Ly7S .appdetailsachievementssection_Desc_rjfKX {
       height: 50%;
-      color: #717070;
+      color: #ff0000;
       font-size: 14px; }
 
 .appdetailsachievementssection_AdditionalItem_2o29C {
@@ -7137,7 +7137,7 @@ div.appgrid_CoverSizeSlider_zgk3h {
     overflow: visible; }
   .library_Container_2qFJr *::-webkit-scrollbar-thumb {
     width: 4px;
-    background-color: #434953;
+    background-color: #ff0000;
     border-radius: 10px;
     z-index: 12;
     border: 3px solid rgba(0, 0, 0, 0) !important;
@@ -7151,13 +7151,13 @@ div.appgrid_CoverSizeSlider_zgk3h {
   .library_Container_2qFJr *::-webkit-scrollbar-button {
     display: none; }
   .library_Container_2qFJr *::-webkit-scrollbar-thumb:hover {
-    background-color: #606774;
+    background-color: #60746300;
     background-clip: padding-box; }
   .library_Container_2qFJr *::-webkit-scrollbar-corner {
     background-color: #434953; }
 
 .library_MainPanel_16dv1 {
-  flex-grow: 1;
+  flex-grow: ;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -7186,7 +7186,7 @@ div.appgrid_CoverSizeSlider_zgk3h {
   border-bottom: 3px solid rgba(34, 37, 43, 0.9);
   z-index: 12; }
   .library_LibraryWindowDivider_1hSBW:hover {
-    background-color: #333741; }
+    background-color: #33413a; }
   .library_IsResizingLeftList_3terp .library_LibraryWindowDivider_1hSBW {
     background-color: #5c606d; }
 
@@ -7199,7 +7199,7 @@ div.appgrid_CoverSizeSlider_zgk3h {
   height: 100%;
   overflow-y: auto;
   color: rgba(255, 255, 255, 0.8);
-  background: radial-gradient(100% 100% at 45% 45%, #707176 0%, #4a4a52 100%); }
+  background: radial-gradient(100% 100% at 45% 45%, #000000 0%, #4a4a52 100%); }
   .libraryhome_Container_3GPiw .SteamLogoThrobber {
     height: 100%;
     opacity: 0;
@@ -7225,8 +7225,8 @@ div.appgrid_CoverSizeSlider_zgk3h {
   box-sizing: border-box;
   padding: 24px;
   position: relative;
-  height: 232px;
-  background-color: #363738;
+  height: 292px;
+  background-color: #292929;
   box-shadow: 0px 0px 32px 0 black inset; }
 
 .libraryhome_LibraryHomeSection_2cb8w {
@@ -7264,7 +7264,7 @@ div.appgrid_CoverSizeSlider_zgk3h {
 .libraryhomenewupdates_OtherEvents_EventCtn_1eEf4 {
   position: relative;
   overflow: hidden;
-  background-image: radial-gradient(ellipse at top left, #42454c, #25282e);
+  background-image: radial-gradient(ellipse at top left, #ffffff, #000000);
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.4); }
   .libraryhomenewupdates_OtherEvents_EventCtn_1eEf4:-webkit-any-link {
     text-decoration: none; }
@@ -7375,7 +7375,7 @@ div.appgrid_CoverSizeSlider_zgk3h {
     width: 150%; }
     .carousel_ArrowWrapper_ZM_eK svg polygon {
       transition: fill .21s ease-in-out;
-      fill: #a3a4a7; }
+      fill: #ff0000; }
   .carousel_ArrowWrapper_ZM_eK.carousel_Hidden_66G1d {
     opacity: 0.0;
     cursor: default; }
